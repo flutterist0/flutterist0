@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Salam, mən Elmir Mikayilliyəm
+# Hi there, I'm Elmir Mikayilli 👋
 
-### 📱 Flutter Mobile Developer | Bakı, Azərbaycan 🇦🇿
+### 📱 Flutter Mobile Developer | Baku, Azerbaijan 🇦🇿
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-elmirmikayilli.netlify.app-blue?style=for-the-badge&logo=netlify)](http://elmirmikayilli.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elmir_Mikayıllı-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elmir-mikayıllı)
@@ -14,12 +14,13 @@
 
 ---
 
-## 🚀 Haqqımda
+## 🚀 About Me
 
-🎯 **Flutter** ilə cross-platform mobil tətbiqlər yaradıram  
-💼 **OZIO**-da işləyirəm  
-🌍 Bakı, Azərbaycandan dünyaya mobil həllər təqdim edirəm  
-📚 Daim öyrənirəm, daim inkişaf edirəm
+- 🎯 Building beautiful cross-platform mobile apps with **Flutter**
+- 💼 Currently working at **OZIO**
+- 🌍 Based in **Baku, Azerbaijan**
+- 📚 Always learning, always growing
+- 💡 Passionate about clean code and great user experiences
 
 ---
 
@@ -38,20 +39,20 @@
 
 ---
 
-## 📌 Seçilmiş Layihələr
+## 📌 Featured Projects
 
-| Layihə | Təsvir | Texnologiya |
-|--------|--------|-------------|
-| [🛒 ecommerce_app](https://github.com/flutterist0/ecommerce_app) | E-ticarət mobil tətbiqi | Flutter / Dart |
-| [📝 online_exam_app](https://github.com/flutterist0/online_exam_app) | Online imtahan platforması | Flutter / Dart |
-| [✅ todo_app](https://github.com/flutterist0/todo_app) | Tapşırıq idarəetmə tətbiqi | Flutter / Dart |
-| [💪 flutter_bmi_calculator](https://github.com/flutterist0/flutter_bmi_calculator) | BMI hesablayıcı | Flutter / C++ |
-| [🏪 EShopProject](https://github.com/flutterist0/EShopProject) | E-ticarət veb layihəsi | C# |
-| [💬 chat_app](https://github.com/flutterist0/chat_app) | Real-time söhbət tətbiqi | Flutter / Dart |
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🛒 ecommerce_app](https://github.com/flutterist0/ecommerce_app) | Full-featured e-commerce mobile app | Flutter / Dart |
+| [📝 online_exam_app](https://github.com/flutterist0/online_exam_app) | Online examination platform | Flutter / Dart |
+| [✅ todo_app](https://github.com/flutterist0/todo_app) | Task management app | Flutter / Dart |
+| [💪 flutter_bmi_calculator](https://github.com/flutterist0/flutter_bmi_calculator) | BMI calculator app | Flutter / C++ |
+| [🏪 EShopProject](https://github.com/flutterist0/EShopProject) | E-commerce web project | C# |
+| [💬 chat_app](https://github.com/flutterist0/chat_app) | Real-time chat application | Flutter / Dart |
 
 ---
 
-## 📊 GitHub Statistikası
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -65,7 +66,7 @@
 
 ---
 
-## 🏆 GitHub Nailiyyətlər
+## 🏆 Achievements
 
 <div align="center">
 
@@ -79,7 +80,7 @@
 
 <div align="center">
 
-### 💡 *"Hər bir tətbiq istifadəçinin həyatını asanlaşdırmaq üçün bir fürsətdir."*
+### 💡 *"Every app is an opportunity to make someone's life a little easier."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=flutterist0&color=blue&style=for-the-badge)
 
