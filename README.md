@@ -56,11 +56,11 @@
 
 <div align="center">
 
-![Elmir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=flutterist0&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=flutterist0&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Elmir's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flutterist0&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flutterist0&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=flutterist0&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=flutterist0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
